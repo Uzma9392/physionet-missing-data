@@ -1,0 +1,76 @@
+mechanism,rate,repeat,method,auroc,missing_cells
+none,0.0,0,Median fill + logistic,0.8250315797764527,0.2745945512820513
+none,0.0,0,Median fill + missing flags + logistic,0.8273238463197445,0.2745945512820513
+none,0.0,0,Gradient boosting (native NaN),0.8572662113400422,0.2745945512820513
+random,0.1,0,Median fill + logistic,0.8245403786732746,0.28162660256410255
+random,0.1,0,Median fill + missing flags + logistic,0.8228421721284723,0.28162660256410255
+random,0.1,0,Gradient boosting (native NaN),0.8593640084206122,0.28162660256410255
+random,0.1,1,Median fill + logistic,0.8180213966612655,0.2814407051282051
+random,0.1,1,Median fill + missing flags + logistic,0.816509204650304,0.2814407051282051
+random,0.1,1,Gradient boosting (native NaN),0.8530061708535868,0.2814407051282051
+random,0.1,2,Median fill + logistic,0.8241497170914727,0.28153685897435904
+random,0.1,2,Median fill + missing flags + logistic,0.8253102920551647,0.28153685897435904
+random,0.1,2,Gradient boosting (native NaN),0.8561153615394795,0.28153685897435904
+random,0.3,0,Median fill + logistic,0.8188100863359272,0.3030496794871795
+random,0.3,0,Median fill + missing flags + logistic,0.8200760690358722,0.3030496794871795
+random,0.3,0,Gradient boosting (native NaN),0.8478010324671523,0.3030496794871795
+random,0.3,1,Median fill + logistic,0.8232055890513642,0.3038701923076923
+random,0.3,1,Median fill + missing flags + logistic,0.8214077624036606,0.3038701923076923
+random,0.3,1,Gradient boosting (native NaN),0.8466367662889402,0.3038701923076923
+random,0.3,2,Median fill + logistic,0.8030177857085159,0.3042227564102564
+random,0.3,2,Median fill + missing flags + logistic,0.8055135856612476,0.3042227564102564
+random,0.3,2,Gradient boosting (native NaN),0.8466761376589103,0.3042227564102564
+random,0.5,0,Median fill + logistic,0.8072142247630353,0.34526121794871795
+random,0.5,0,Median fill + missing flags + logistic,0.800866364669482,0.34526121794871795
+random,0.5,0,Gradient boosting (native NaN),0.8416700904280887,0.34526121794871795
+random,0.5,1,Median fill + logistic,0.8129409093002202,0.3459214743589744
+random,0.5,1,Median fill + missing flags + logistic,0.8041725777935784,0.3459214743589744
+random,0.5,1,Gradient boosting (native NaN),0.844077228257704,0.3459214743589744
+random,0.5,2,Median fill + logistic,0.79949874235026,0.34444711538461537
+random,0.5,2,Median fill + missing flags + logistic,0.7958010333974238,0.34444711538461537
+random,0.5,2,Gradient boosting (native NaN),0.8297520187282288,0.34444711538461537
+random,0.7,0,Median fill + logistic,0.7908476202126735,0.42141506410256413
+random,0.7,0,Median fill + missing flags + logistic,0.7912547990776047,0.42141506410256413
+random,0.7,0,Gradient boosting (native NaN),0.821206320761694,0.42141506410256413
+random,0.7,1,Median fill + logistic,0.7878201722894095,0.4218317307692308
+random,0.7,1,Median fill + missing flags + logistic,0.7865289457381336,0.4218317307692308
+random,0.7,1,Gradient boosting (native NaN),0.828036626551803,0.4218317307692308
+random,0.7,2,Median fill + logistic,0.7997013798047432,0.4205560897435897
+random,0.7,2,Median fill + missing flags + logistic,0.7959542468631886,0.4205560897435897
+random,0.7,2,Gradient boosting (native NaN),0.8355711116958041,0.4205560897435897
+biased,0.1,0,Median fill + logistic,0.8314845372056201,0.28262660256410255
+biased,0.1,0,Median fill + missing flags + logistic,0.8327388391047128,0.28262660256410255
+biased,0.1,0,Gradient boosting (native NaN),0.8532054603637869,0.28262660256410255
+biased,0.1,1,Median fill + logistic,0.823533884395246,0.28215865384615385
+biased,0.1,1,Median fill + missing flags + logistic,0.8233908590577992,0.28215865384615385
+biased,0.1,1,Gradient boosting (native NaN),0.8493374127812192,0.28215865384615385
+biased,0.1,2,Median fill + logistic,0.8274169964867257,0.2821394230769231
+biased,0.1,2,Median fill + missing flags + logistic,0.8289651209634803,0.2821394230769231
+biased,0.1,2,Gradient boosting (native NaN),0.8553404584905815,0.2821394230769231
+biased,0.3,0,Median fill + logistic,0.8309040830501043,0.3042932692307692
+biased,0.3,0,Median fill + missing flags + logistic,0.8319215534998964,0.3042932692307692
+biased,0.3,0,Gradient boosting (native NaN),0.8461746668736005,0.3042932692307692
+biased,0.3,1,Median fill + logistic,0.8279378343906647,0.3042676282051282
+biased,0.3,1,Median fill + missing flags + logistic,0.8276907584799298,0.3042676282051282
+biased,0.3,1,Gradient boosting (native NaN),0.848805093568014,0.3042676282051282
+biased,0.3,2,Median fill + logistic,0.8379222053102282,0.30485737179487177
+biased,0.3,2,Median fill + missing flags + logistic,0.8359028804672775,0.30485737179487177
+biased,0.3,2,Gradient boosting (native NaN),0.8537166974509057,0.30485737179487177
+biased,0.5,0,Median fill + logistic,0.8096710406488914,0.3446778846153846
+biased,0.5,0,Median fill + missing flags + logistic,0.8100767068921295,0.3446778846153846
+biased,0.5,0,Gradient boosting (native NaN),0.8333997744711444,0.3446778846153846
+biased,0.5,1,Median fill + logistic,0.8065909663284561,0.34471634615384616
+biased,0.5,1,Median fill + missing flags + logistic,0.8127442618648526,0.34471634615384616
+biased,0.5,1,Gradient boosting (native NaN),0.8393477330081105,0.34471634615384616
+biased,0.5,2,Median fill + logistic,0.8124832197859269,0.3452227564102564
+biased,0.5,2,Median fill + missing flags + logistic,0.8168605224601944,0.3452227564102564
+biased,0.5,2,Gradient boosting (native NaN),0.831352664584822,0.3452227564102564
+biased,0.7,0,Median fill + logistic,0.784146565951324,0.4205496794871795
+biased,0.7,0,Median fill + missing flags + logistic,0.79015958623998,0.4205496794871795
+biased,0.7,0,Gradient boosting (native NaN),0.8220304869656798,0.4205496794871795
+biased,0.7,1,Median fill + logistic,0.7832568281034237,0.41965224358974357
+biased,0.7,1,Median fill + missing flags + logistic,0.7899757274556289,0.41965224358974357
+biased,0.7,1,Gradient boosting (native NaN),0.814989137476422,0.41965224358974357
+biased,0.7,2,Median fill + logistic,0.7683002759754196,0.4208125
+biased,0.7,2,Median fill + missing flags + logistic,0.7804252783333998,0.4208125
+biased,0.7,2,Gradient boosting (native NaN),0.8103234471815275,0.4208125
